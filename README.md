@@ -1,5 +1,5 @@
 # Auto complete system. T9
 
-Small data of 50 previous searches applied. Once you start searching you request will be recorded in history and rated based on how many times it was requested. 
+A small dataset of 50 previous searches is applied. Once you start searching, your request will be recorded in history and ranked based on how many times it has been requested.
 
-Built fully in-memory, with Tries, TrieNode and Heap(for correct sort and rating for each search).
+Built fully in-memory, using Tries, TrieNode, and Heap (for correct sorting and ranking of each search).
